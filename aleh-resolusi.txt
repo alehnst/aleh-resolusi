@@ -2,5 +2,5 @@ ALEH-RESOLUSI
 - Konsistensi dalam menjalankan kewajiban
 - Belajar membuat sebuah applikasi/program
 - Memberikan idea atau inovasi
-- Membuat vlog
 - Menyelesaikan project
+- Update docs project
